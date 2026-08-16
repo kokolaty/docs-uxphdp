@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-piytw0.pixk.link/sitemap.xml
